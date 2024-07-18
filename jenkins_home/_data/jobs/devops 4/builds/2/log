@@ -1,0 +1,7 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/devops 4
+[devops 4] $ /bin/sh -xe /tmp/jenkins12993552621160585311.sh
++ echo steps 3
+steps 3
+Finished: SUCCESS

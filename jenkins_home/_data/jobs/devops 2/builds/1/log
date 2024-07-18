@@ -1,0 +1,7 @@
+Started by user [8mha:////4COW4C1UJG7oM4U/DqIlV0+tkZQkj4lQecpirw3V725OAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/devops 2
+[devops 2] $ /bin/sh -xe /tmp/jenkins9039317620987441944.sh
++ echo testing 2
+testing 2
+Finished: SUCCESS
